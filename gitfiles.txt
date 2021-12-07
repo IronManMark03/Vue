@@ -1,0 +1,45 @@
+[user]
+	email = IMANMarkIII@gmail.com
+	name = IronManMark03
+
+[alias]
+## checkout
+	co=checkout
+	
+## status
+ st=status
+ 
+## add all files
+adl= add .
+
+
+## add all file
+ad= add
+
+## commit
+cm= commit -m
+
+## push files 
+p=push
+
+## push files 
+pm=push -m 
+
+## push files 
+o=origin
+
+## push files 
+m=master 
+
+
+## origin master
+om=origin master
+
+## branch
+b=branch
+
+## branch 
+bl=branch -a
+
+## git init
+i=init
